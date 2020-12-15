@@ -1,0 +1,6 @@
+.metadata
+.metadata/*
+.vscode
+.vscode/*
+.DS_STORE
+.desktop
